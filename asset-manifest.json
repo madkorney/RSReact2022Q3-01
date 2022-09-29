@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/madkorney-REACT2022Q3/deploy/react-components/static/css/main.41046478.css",
+    "main.js": "/madkorney-REACT2022Q3/deploy/react-components/static/js/main.79b9b0f3.js",
+    "static/media/zlogo.png": "/madkorney-REACT2022Q3/deploy/react-components/static/media/zlogo.fb1a2bbaa1a1a2c075f9.png",
+    "static/media/heart_red.png": "/madkorney-REACT2022Q3/deploy/react-components/static/media/heart_red.21281b7eda46df8626d0.png",
+    "static/media/search_icon.png": "/madkorney-REACT2022Q3/deploy/react-components/static/media/search_icon.a7282f40a5a0600d12ea.png",
+    "static/media/Github_logo.png": "/madkorney-REACT2022Q3/deploy/react-components/static/media/Github_logo.dbd0adc6d4684720f75a.png",
+    "static/media/rs_school_img.svg": "/madkorney-REACT2022Q3/deploy/react-components/static/media/rs_school_img.ad178c0df28bc133be34.svg",
+    "index.html": "/madkorney-REACT2022Q3/deploy/react-components/index.html",
+    "main.41046478.css.map": "/madkorney-REACT2022Q3/deploy/react-components/static/css/main.41046478.css.map",
+    "main.79b9b0f3.js.map": "/madkorney-REACT2022Q3/deploy/react-components/static/js/main.79b9b0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41046478.css",
+    "static/js/main.79b9b0f3.js"
+  ]
+}
