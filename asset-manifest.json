@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RSReact2022Q3-01/static/css/main.aae643ac.css",
-    "main.js": "/RSReact2022Q3-01/static/js/main.a4208706.js",
+    "main.js": "/RSReact2022Q3-01/static/js/main.ae3b8bd0.js",
     "static/media/zlogo.png": "/RSReact2022Q3-01/static/media/zlogo.fb1a2bbaa1a1a2c075f9.png",
     "static/media/heart_red.png": "/RSReact2022Q3-01/static/media/heart_red.21281b7eda46df8626d0.png",
     "static/media/search_icon.png": "/RSReact2022Q3-01/static/media/search_icon.a7282f40a5a0600d12ea.png",
@@ -9,10 +9,10 @@
     "static/media/rs_school_img.svg": "/RSReact2022Q3-01/static/media/rs_school_img.ad178c0df28bc133be34.svg",
     "index.html": "/RSReact2022Q3-01/index.html",
     "main.aae643ac.css.map": "/RSReact2022Q3-01/static/css/main.aae643ac.css.map",
-    "main.a4208706.js.map": "/RSReact2022Q3-01/static/js/main.a4208706.js.map"
+    "main.ae3b8bd0.js.map": "/RSReact2022Q3-01/static/js/main.ae3b8bd0.js.map"
   },
   "entrypoints": [
     "static/css/main.aae643ac.css",
-    "static/js/main.a4208706.js"
+    "static/js/main.ae3b8bd0.js"
   ]
 }
