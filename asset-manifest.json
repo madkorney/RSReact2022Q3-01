@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RSReact2022Q3-01/static/css/main.aae643ac.css",
-    "main.js": "/RSReact2022Q3-01/static/js/main.ae3b8bd0.js",
+    "main.css": "/RSReact2022Q3-01/static/css/main.99b0f42f.css",
+    "main.js": "/RSReact2022Q3-01/static/js/main.bdc28221.js",
     "static/media/zlogo.png": "/RSReact2022Q3-01/static/media/zlogo.fb1a2bbaa1a1a2c075f9.png",
     "static/media/heart_red.png": "/RSReact2022Q3-01/static/media/heart_red.21281b7eda46df8626d0.png",
     "static/media/search_icon.png": "/RSReact2022Q3-01/static/media/search_icon.a7282f40a5a0600d12ea.png",
     "static/media/Github_logo.png": "/RSReact2022Q3-01/static/media/Github_logo.dbd0adc6d4684720f75a.png",
-    "static/media/rs_school_img.svg": "/RSReact2022Q3-01/static/media/rs_school_img.ad178c0df28bc133be34.svg",
+    "static/media/rs_school_img.svg": "/RSReact2022Q3-01/static/media/rs_school_img.ad178c0df28bc133be34b982d62f431d.svg",
     "index.html": "/RSReact2022Q3-01/index.html",
-    "main.aae643ac.css.map": "/RSReact2022Q3-01/static/css/main.aae643ac.css.map",
-    "main.ae3b8bd0.js.map": "/RSReact2022Q3-01/static/js/main.ae3b8bd0.js.map"
+    "main.99b0f42f.css.map": "/RSReact2022Q3-01/static/css/main.99b0f42f.css.map",
+    "main.bdc28221.js.map": "/RSReact2022Q3-01/static/js/main.bdc28221.js.map"
   },
   "entrypoints": [
-    "static/css/main.aae643ac.css",
-    "static/js/main.ae3b8bd0.js"
+    "static/css/main.99b0f42f.css",
+    "static/js/main.bdc28221.js"
   ]
 }
